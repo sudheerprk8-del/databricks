@@ -14,7 +14,7 @@ targets:
     workspace:
       host: https://adb-7405607986069937.17.azuredatabricks.net
 
-  # The 'prod' target, used for production deployment.
+  # The 'prod' target, used for production deployment ..   
   prod:
     mode: production
     workspace:
